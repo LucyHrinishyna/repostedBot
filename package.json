@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/LucyHrinishyna/repostedBot/issues"
   },
-  "homepage": "https://github.com/LucyHrinishyna/repostedBot#readme"
+  "homepage": "https://github.com/LucyHrinishyna/repostedBot#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "fb": "^2.0.0",
+    "node-fetch": "^2.6.0"
+  }
 }
